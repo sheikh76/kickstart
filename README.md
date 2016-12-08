@@ -33,4 +33,3 @@ Logical volume mounted
 Link to my kickstart video
 
         https://youtu.be/debzw0nCMBk
-        [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/debzw0nCMBk=VID)
