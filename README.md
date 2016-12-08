@@ -30,9 +30,7 @@ Logical volume mounted
         lv_var mounted to /var
 
 
-Link to my kickstart video
-[Link to video](https://youtu.be/debzw0nCMBk)
+Link to my kickstart 
+[video](https://youtu.be/debzw0nCMBk)
 
         https://youtu.be/debzw0nCMBk
-        [Link to video](https://youtu.be/debzw0nCMBk)
-
